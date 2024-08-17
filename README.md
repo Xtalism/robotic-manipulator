@@ -57,7 +57,6 @@ I installed the <a href="https://la.mathworks.com/matlabcentral/fileexchange/475
 4. Run the application and use the interface to control the robotic manipulator.
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="img/manipulator.png" alt="Robotic Manipulator" style="width: 45%; margin-right: 10px;">
   <img src="img/interface.png" alt="Interface" style="width: 45%;">
 </div>
 

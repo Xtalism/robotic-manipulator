@@ -4,6 +4,10 @@ This is a simple MATLAB App Designer application interface to manipulate manuall
 
 This Robotic Manipulator has six degrees of freedom. Its behaviour was analized with Denavit-Hartenberg Parameters.
 
+<p align="center">
+  <img width="auto" height="auto" src="img/manipulator.png">
+</p>
+
 ## Hardware Used
 <ul>
     <li>Arduino Uno</li>
@@ -19,14 +23,19 @@ This Robotic Manipulator has six degrees of freedom. Its behaviour was analized 
     ```
 2. Open MATLAB and navigate to the cloned repository.
 3. Install the required MATLAB support packages:
-    - <a href="https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware" target="_blank">MATLAB Support Package for Arduino Hardware</a>
-    - <a href="https://la.mathworks.com/products/matlab/app-designer.html" target="_blank">MATLAB App Designer</a>
+    - [MATLAB Support Package for Arduino Hardware](https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware)
+    - [MATLAB App Designer](https://la.mathworks.com/products/matlab/app-designer.html)
 
 ## Usage
 1. Connect the Arduino Uno and the servomotors as per the hardware setup.
 2. Open the MATLAB App Designer and load the project.
 3. Change the 'COM' and 'Arduino' values to match yours.
 4. Run the application and use the interface to control the robotic manipulator.
+
+<p align="center">
+  <img width="auto" height="auto" src="img/pictoric.png">
+</p>
+
 
 <p align="center">
   <img width="auto" height="auto" src="img/interface.png">

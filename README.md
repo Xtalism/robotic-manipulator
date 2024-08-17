@@ -12,9 +12,6 @@ This Robotic Manipulator has six degrees of freedom. Its behaviour was analized 
     <li>Three Joysticks</li>
 </ul>
 
-## Software Requirements
-I installed the [MATLAB Support Package for Arduino Hardware](https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware) to program with the Arduino Uno and I also used [MATLAB App Designer](https://la.mathworks.com/products/matlab/app-designer.html) to build an user interface.
-
 ## Installation Instructions
 1. Clone the repository:
     ```sh
@@ -22,8 +19,8 @@ I installed the [MATLAB Support Package for Arduino Hardware](https://la.mathwor
     ```
 2. Open MATLAB and navigate to the cloned repository.
 3. Install the required MATLAB support packages:
-    - [MATLAB Support Package for Arduino Hardware](https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware)
-    - [MATLAB App Designer](https://la.mathworks.com/products/matlab/app-designer.html)
+    - <a href="https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware" target="_blank">MATLAB Support Package for Arduino Hardware</a>
+    - <a href="https://la.mathworks.com/products/matlab/app-designer.html" target="_blank">MATLAB App Designer</a>
 
 ## Usage
 1. Connect the Arduino Uno and the servomotors as per the hardware setup.

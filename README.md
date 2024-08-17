@@ -45,7 +45,9 @@ This project aims to provide an intuitive interface for controlling a robotic ma
 </p>.
 
 ## Software Requirements
-I installed the <a href="https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware" target="_blank">MATLAB Support Package for Arduino Hardware</a> to program with the Arduino Uno and I also used <a href="https://la.mathworks.com/products/matlab/app-designer.html" target="_blank">MATLAB App Designer</a> to build a user interface.
+  - [MATLAB](https://la.mathworks.com/products/matlab.html)
+  - [MATLAB Support Package for Arduino Hardware](https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware)
+  - [MATLAB App Designer](https://la.mathworks.com/products/matlab/app-designer.htm)
 
 ## Prerequisites
 - MATLAB R2020a or later

@@ -14,7 +14,6 @@ This Robotic Manipulator has six degrees of freedom. Its behaviour was analyzed 
   - [Installation Instructions](#installation-instructions)
   - [Usage](#usage)
   - [Features](#features)
-  - [Contributing](#contributing)
   - [License](#license)
   - [Contact Information](#contact-information)
   - [Acknowledgements](#acknowledgements)
@@ -23,7 +22,7 @@ This Robotic Manipulator has six degrees of freedom. Its behaviour was analyzed 
 This project aims to provide an intuitive interface for controlling a robotic manipulator with six degrees of freedom. The interface allows for both manual and digital manipulation, making it versatile for various applications.
 
 <p align="center">
-  <img width="auto" height="auto" src="img/manipulator.png">
+  <img width="auto" height="auto" src="img/structure.png">
 </p>
 
 ## Hardware Used
@@ -57,27 +56,24 @@ I installed the <a href="https://la.mathworks.com/matlabcentral/fileexchange/475
 3. Change the 'COM' and 'Arduino' values to match yours.
 4. Run the application and use the interface to control the robotic manipulator.
 
-<p align="center">
-  <img width="auto" height="auto" src="img/pictoric.png">
-</p>
-
-<p align="center">
-  <img width="auto" height="auto" src="img/interface.png">
-</p>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="img/pictoric.png" alt="Pictoric Diagram" style="width: 45%; margin-right: 10px;">
+  <img src="img/interface.png" alt="Interface" style="width: 45%;">
+</div>
 
 ## Features
 - Manual and digital manipulation of the robotic arm
 - Real-time control via MATLAB interface
 - Easy setup and configuration
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first.
+<!-- ## Contributing
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) first. -->
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact Information
-For any questions or suggestions, please contact [your email](mailto:youremail@example.com).
+For any questions or suggestions, please contact [manuel.pina.olivas@gmail.com](mailto:manuel.pina.olivas@gmail.com).
 
 ## Acknowledgements
 - [MATLAB Central](https://www.mathworks.com/matlabcentral)

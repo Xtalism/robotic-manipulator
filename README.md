@@ -47,7 +47,7 @@ This project aims to provide an intuitive interface for controlling a robotic ma
 ## Software Requirements
   - [MATLAB](https://la.mathworks.com/products/matlab.html)
   - [MATLAB Support Package for Arduino Hardware](https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware)
-  - [MATLAB App Designer](https://la.mathworks.com/products/matlab/app-designer.htm)
+  - [MATLAB App Designer](https://la.mathworks.com/products/matlab/app-designer.html)
 
 ## Prerequisites
 - MATLAB R2020a or later

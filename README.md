@@ -41,7 +41,7 @@ This project aims to provide an intuitive interface for controlling a robotic ma
 </p>
 
 <p align="center">
-  <img width="auto" height="auto" src="img/schematic.jpg">
+  <img width="auto" height="auto" src="img/schematics.jpg">
 </p>.
 
 ## Software Requirements

@@ -42,7 +42,7 @@ This project aims to provide an intuitive interface for controlling a robotic ma
 
 <p align="center">
   <img width="auto" height="auto" src="img/schematics.jpg">
-</p>.
+</p>
 
 ## Software Requirements
   - [MATLAB](https://la.mathworks.com/products/matlab.html)
@@ -51,7 +51,6 @@ This project aims to provide an intuitive interface for controlling a robotic ma
 
 ## Prerequisites
 - MATLAB R2020a or later
-- Arduino IDE
 
 ## Installation Instructions
 1. Clone the repository:

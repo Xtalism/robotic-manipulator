@@ -9,6 +9,7 @@ This Robotic Manipulator has six degrees of freedom. Its behaviour was analyzed 
   - [Table of Contents](#table-of-contents)
   - [Project Description](#project-description)
   - [Hardware Used](#hardware-used)
+  - [Wiring](#wiring)
   - [Software Requirements](#software-requirements)
   - [Prerequisites](#prerequisites)
   - [Installation Instructions](#installation-instructions)
@@ -33,6 +34,16 @@ This project aims to provide an intuitive interface for controlling a robotic ma
     <li>Three Joysticks</li>
 </ul>
 
+## Wiring
+
+<p align="center">
+  <img width="auto" height="auto" src="img/pictoric.png">
+</p>
+
+<p align="center">
+  <img width="auto" height="auto" src="img/schematic.jpg">
+</p>.
+
 ## Software Requirements
 I installed the <a href="https://la.mathworks.com/matlabcentral/fileexchange/47522-matlab-support-package-for-arduino-hardware" target="_blank">MATLAB Support Package for Arduino Hardware</a> to program with the Arduino Uno and I also used <a href="https://la.mathworks.com/products/matlab/app-designer.html" target="_blank">MATLAB App Designer</a> to build a user interface.
 
@@ -56,9 +67,9 @@ I installed the <a href="https://la.mathworks.com/matlabcentral/fileexchange/475
 3. Change the 'COM' and 'Arduino' values to match yours.
 4. Run the application and use the interface to control the robotic manipulator.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="img/interface.png" alt="Interface" style="width: 45%;">
-</div>
+<p align="center">
+  <img width="auto" height="auto" src="img/interface.png">
+</p>
 
 ## Features
 - Manual and digital manipulation of the robotic arm
